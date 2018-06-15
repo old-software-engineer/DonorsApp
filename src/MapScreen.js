@@ -22,6 +22,7 @@ export default class MapScreen extends Component<{}> {
   }
   
   constructor(props) {
+    //dgdgdgwdg
     super(props);
     this.state = {
       region: { 
