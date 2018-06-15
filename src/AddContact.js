@@ -26,6 +26,8 @@ export default class AddContact extends Component {
         age: '',
         location: ''
       };
+
+      // test
   }
 
   onButtonClick(action)
